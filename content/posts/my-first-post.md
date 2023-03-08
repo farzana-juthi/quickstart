@@ -13,7 +13,6 @@ tags:
 slug: /sam-accelerate-with-lambda-layers
 ---
 
-
 ### Prerequisite
 - First you have to install aws sam cli into your machine. 
 - Then configure aws cli.
