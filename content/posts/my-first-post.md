@@ -1,6 +1,6 @@
 ---
 title: How to sam accelerate work with lambda layers
-description: If you are a developer, you know testing is very important for application development. But integration testing in cloud is really a concern. As deployment time plays a vital role in development, many of us try to do mock test before deploy it into cloud. There are some frameworks for doing that. But in that case integration testing is not possible. If you are a SAM user, You can speed up your development with SAM accelerate. In this blog post, you will see an example of lambda layers and its implementation.  
+description: If you are a developer, you know testing is very important for application development. But integration testing in cloud is really a concern. As deployment time plays a vital role in development, many of us try to do mock test before deploy it into cloud. There are some frameworks for doing that. But in that case integration testing is not possible. If you are a SAM user, you can speed up your development with SAM accelerate. In this blog post, you will see an example of lambda layers and its implementation in sam accelerate.  
 image_attribution: ![SAM accelerate](/images/sam-accelerate/image_1.png)
 categories:
   - SAM
